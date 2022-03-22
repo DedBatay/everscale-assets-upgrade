@@ -126,6 +126,13 @@
       "rootV4": "0:967c87a81c2ad6a489fe006f831a11ffd8ac5bc6f7dd4e107a27e0e6a7728144",
       "rootV5": "0:9dd2cd82cbfd74a963be1ef1fd1a1f3e25f60e0b8c742f8b862df378b9a5e265",
       "proxy": "0:9d09ed787c99143c125ecf6b3ace7f6056d6b0180cb69d5a306b8c34dcf0225b"
+    },
+    {
+      "symbol": "BATA",
+      "LogoURI": "https://raw.githubusercontent.com/DedBatay/Bataevs-Clan-Coin/3969b6a036de3f6aaeb071a39b62c8ec013c7a33/BATA.svg",
+      "rootv4": "0:0a6275b3f40bd22afce2b1545a08017b6924ed6b303e3aa80dd506f81987897d",
+      "rootV5": "0:3667c4018cf2bee23ddea45c42672ad3e39685f46a31ba03b79fb7cc2e80a67d",
+      "proxy": "0:2eab5aaccb8ad8d52cee234769d35724d56b336f8c10aa02ab06f1bf0ee83568"
     }
   ]
 }
